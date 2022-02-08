@@ -1,3 +1,4 @@
-# alliancebrawl
+# Alliancebrawl
 
-Alliance Brawl
+Alliance Brawl is Mod
+Server Powerd by Modern Brawl
